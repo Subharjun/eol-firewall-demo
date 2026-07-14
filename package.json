@@ -4,6 +4,6 @@
   "description": "Intentionally outdated dependencies to demo the EOL Firewall.",
   "dependencies": {
     "chalk": "^2.4.2",
-    "express": "^4.18.2"
+    "express": "^5.2.1"
   }
 }
