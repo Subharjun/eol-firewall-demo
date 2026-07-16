@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "eol-firewall-demo",
   "version": "1.0.0",
   "description": "Intentionally outdated dependencies to demo the EOL Firewall.",
